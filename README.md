@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software engineer with 3 years of experience.
+
+I am a person with a desire to study and experience many things. Currently, I'm a software developer working with [Laravel](https://laravel.com/) and [Vuejs](https://vuejs.org/). I love building delightful software that improves the lives of people around me.
