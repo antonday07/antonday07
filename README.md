@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer with 3 years of experience.
+I'm a software engineer with a product mindset 😄. I have 4 years experiences working with PHP and Laravel ecosystem.
 
 I am a person with a desire to study and experience many things. Currently, I'm a software developer working with [Laravel](https://laravel.com/) and [Vuejs](https://vuejs.org/). I love building delightful software that improves the lives of people around me.
